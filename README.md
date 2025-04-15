@@ -1,7 +1,19 @@
-- 👋 Hola, Este es mi perfil de @fotosycaptura
-- 👀 Soy informático y me gustan mucho las tecnologías, así como también las fotografías.
+- 👋 Hola, Este soy yo: @fotosycaptura
 
-Es por eso que la mayoría de las aplicaciones en mi repositorio, están destinadas a algo relacionado a la fotografía. 
+Soy programador de la vieja escuela y actual ingeniero en ciberseguridad, combino más de 20 años de experiencia en desarrollo con una mirada afilada hacia el futuro digital. 
+Ya sea analizando fraudes con machine learning, protegiendo redes estatales con escudos de código abierto, o domando una Raspberry Pi de 1GB como si fuera una bestia de alto rendimiento XDDD, lo hago (casi) todo con precisión quirúrgica y pasión de hacker ético.  
+
+No solo combato amenazas: diseño sistemas que se blindan solos. 
+
+Desde asegurar dispositivos IoT en instituciones públicas hasta crear programas de concientización basados en ISO 27001 y NIST, y mi trabajo no solo funciona… Se protege a sí mismo.  
+
+También estoy experimentando como científico de datos, aunque esto todavía está en adiestramiento mediante cursos de certificación...
+
+Y cuando no estoy en modo root:
+
+- Conecto sintetizadores, DAWs y nostalgia digital, componiendo melodías entre scripts y terminales.  
+- Un verdadero artesano del código… Y del ritmo.
+- También me gusta la fotografía...
 
 Eres bienvenido de colaborar... 
 
