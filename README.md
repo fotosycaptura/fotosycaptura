@@ -12,6 +12,7 @@ También estoy experimentando como científico de datos, aunque esto todavía es
 
 Y cuando no estoy en modo root:
 
+- Soy un fidonauta...
 - Conecto sintetizadores, DAWs y nostalgia digital, componiendo melodías entre scripts y terminales.  
 - Un verdadero artesano del código… Y del ritmo.
 - También me gusta la fotografía...
